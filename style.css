@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+}
+.splash {
+    background-image: url("fruitback.jpg");
+    color: white;
+}
+
+
+
+.fruitTable td{
+    padding: 10px 10px 10px 10px;
+}
+.fruit-bin{
+    display: inline-block;
+}
+.fruit{
+    width: 150px;
+    height: 150px;
+    background-size: 150px 150px;
+    color: grey;
+
+}
+.fruit p{
+    background-color: black;
+    color: white;
+}
+.fruitapple {
+
+    background-image: url("apple.png");
+
+
+}
+.fruitbanana {
+
+    background-image: url("bananas.png");
+
+
+}
+.fruitpear {
+
+    background-image: url("pear.png");
+
+
+}
+.fruitorange {
+
+    background-image: url("orange.png");
+
+
+}
+.sell{
+
+}
